@@ -2,12 +2,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 100vh;
 }
 
 button{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 50px;
+    
 }
